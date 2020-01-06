@@ -7,7 +7,11 @@ The camera will then identify the distance between the car and traffic signal an
 WORKING:
 
 Image will be converted from RGB to HSV
+
 Masking of the image
+
 Using Hough Circle
+
 Detecting colour of traffic signal
+
 Displaying message of Traffic signal
